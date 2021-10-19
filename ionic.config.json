@@ -1,0 +1,7 @@
+{
+  "name": "appMeuOrcamento1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
